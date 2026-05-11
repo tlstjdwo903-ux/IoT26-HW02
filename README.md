@@ -1,10 +1,9 @@
-# IoT26-HW02: Read Digital Inputs with Python (Buttons and
-Other Peripherals)
+# IoT26-HW02: Read Digital Inputs with Python (Buttons and Other Peripherals)
 
 ## 1. Project Overview
 - This project demonstrates how to read digital signals from external devices using Raspberry Pi's GPIO input pins. By connecting a push button, I programmed the Pi to detect physical presses and respond accordingly. This assignment highlights the use of the gpiozero interface to manage digital input states and implement basic interactive hardware logic.
 ## 2. Execution Screenshots
-Below is the screenshot of the IDE while the code is running.
+- screenshot of the IDE
 ![IDE Execution](./hw2.png)
 
 ## 3. Working Video
