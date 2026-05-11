@@ -3,8 +3,9 @@
 ## 1. Project Overview
 - This project demonstrates how to read digital signals from external devices using Raspberry Pi's GPIO input pins. By connecting a push button, I programmed the Pi to detect physical presses and respond accordingly. This assignment highlights the use of the gpiozero interface to manage digital input states and implement basic interactive hardware logic.
 ## 2. Execution Screenshots
-- screenshot of the IDE
-![IDE Execution](./hw2.png)
+- Below is the screenshot of the IDE while the code is running.
+![IDE Execution](./hw2-1.png)
+![IDE Execution](./hw2-2.png)
 
 ## 3. Working Video
 - GIF Preview:
